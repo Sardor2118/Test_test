@@ -5,5 +5,8 @@
 # git merge
 # git pull
 # git checkout
+# git commit
+# git clone .url
+# git log
 # git config
 asd = 123
